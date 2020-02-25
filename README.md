@@ -5,9 +5,13 @@ https://relaxed-hodgkin-68afc6.netlify.com/
 Scully and Angular Static site generator:
 
 Reference:
+
 1.Create a Static Site Using Angular & Scully (with Tara Z. Manicsic) — Learn With Jason 1,218 views •18 Dec 2019
 
 https://www.youtube.com/watch?v=ugTx-14jRrI&t=3107s
+
+
+
 Commands:
 
 
