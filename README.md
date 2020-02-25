@@ -1,6 +1,8 @@
 
 https://relaxed-hodgkin-68afc6.netlify.com/
 
+Please refer the document 
+ # Scully and Angular Static site generator_.docx
 
 Scully and Angular Static site generator:
 
@@ -27,9 +29,11 @@ Commands:
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/
 documentation/syntax#scss  
 
-# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites$cd jamgularOne
+ krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites$
+ # cd jamgularOne
 
-# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$ng serve --open
+ krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$
+ # ng serve --open
 
  # ng g m home --route home --module app.module.ts
 
@@ -37,7 +41,8 @@ documentation/syntax#scss
 
 # ng g m about --route about --module app.module.ts
 
-# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$ng g c user/users
+ krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$
+ # ng g c user/users
 
 **************************************************************************************
 app-routing.module.ts
