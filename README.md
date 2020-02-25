@@ -15,32 +15,29 @@ https://www.youtube.com/watch?v=ugTx-14jRrI&t=3107s
 Commands:
 
 
-cd projects
+# cd projects
 
-cd scully-angular-jamstack-sites
+# cd scully-angular-jamstack-sites
 
-ng --version
+# ng --version
 
- ng new jamgularOne
+# ng new jamgularOne
 
 ? Would you like to add Angular routing? Yes
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/
 documentation/syntax#scss  
 
-krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites$
-cd jamgularOne
+# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites$cd jamgularOne
 
-krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$
-ng serve --open
+# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$ng serve --open
 
- ng g m home --route home --module app.module.ts
+ # ng g m home --route home --module app.module.ts
 
- ng g m users --route users --module app.module.ts
+#  ng g m users --route users --module app.module.ts
 
-ng g m about --route about --module app.module.ts
+# ng g m about --route about --module app.module.ts
 
-krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$
-ng g c user/users
+# krishna@krishna-Lenovo-G50-70:~/projects/scully-angular-jamstack-sites/jamgularOne$ng g c user/users
 
 **************************************************************************************
 app-routing.module.ts
@@ -58,15 +55,15 @@ const routes: Routes = [{ path: '', loadChildren: () => import('./home/home.modu
 export class AppRoutingModule { }
 ***********************************************************************************************************
 
-ng serve --port 4204
+# ng serve --port 4204
 
-ng build
+# ng build
 
-ng add @scullyio/init
+# ng add @scullyio/init
 
-npm i @scullyio/ng-lib
+# npm i @scullyio/ng-lib
 
- npm run scully
+ # npm run scully
 
 Static site:
 
